@@ -34,6 +34,7 @@
   <project path="vendor/nexell/library/nx-scaler" name="CoasiaNexell/linux_library_nx-scaler" groups="library" remote="nexell" revision="nexell" />
   <project path="vendor/nexell/library/nx-deinterlacer" name="CoasiaNexell/linux_library_nx-deinterlacer" groups="library" remote="nexell" revision="nexell" />
   <project path="vendor/nexell/library/nx-video-api" name="CoasiaNexell/linux_library_nx-video-api" groups="library" remote="nexell" revision="nexell" />
+  <project path="vendor/nexell/library/nx-gl-tools" name="CoasiaNexell/linux_library_nx-gl-tools" groups="library" remote="nexell" revision="master" />
   <project path="vendor/nexell/library/nx-csc" name="CoasiaNexell/linux_library_nx-csc" groups="library" remote="nexell" revision="nexell" />
   <project path="vendor/nexell/library/nx-v4l2" name="CoasiaNexell/linux_library_nx-v4l2" groups="library" remote="nexell" revision="nexell" />
   <project path="vendor/nexell/library/nx-renderer" name="CoasiaNexell/linux_library_nx-renderer" groups="library" remote="nexell" revision="nexell" />
