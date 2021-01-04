@@ -5,6 +5,7 @@
   <project path="device/nexell/navi_ref" name="CoasiaNexell/android_board_navi_ref" groups="device" remote="nexell" revision="nougat-dev" />
   <project path="device/nexell/vtk_ref" name="CoasiaNexell/android_board_vtk_ref" groups="device" remote="nexell" revision="nougat-dev" />
   <project path="device/nexell/con_svma" name="CoasiaNexell/android_board_con_svma" groups="device" remote="nexell" revision="nougat-dev" />
+  <project path="device/nexell/con_svma64" name="CoasiaNexell/android_board_con_svma64" groups="device" remote="nexell" revision="nougat-dev" />
   <project path="device/nexell/svt_ref" name="CoasiaNexell/android_board_svt_ref" groups="device" remote="nexell" revision="nougat-dev" />
   <project path="device/nexell/bl1/bl1-s5p6818" name="CoasiaNexell/bl1_s5p6818" groups="bl1" remote="nexell" revision="nexell" />
   <project path="device/nexell/bl1/bl1-s5p4418" name="CoasiaNexell/bl1_s5p4418" groups="bl1" remote="nexell" revision="nexell" />
